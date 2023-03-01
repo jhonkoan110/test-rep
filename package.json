@@ -1,0 +1,19 @@
+{
+  "name": "@jhonkoan110/test-rep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonkoan110/test-rep.git"
+  },
+  "author": "Капитальцев Кирилл",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonkoan110/test-rep/issues"
+  },
+  "homepage": "https://github.com/jhonkoan110/test-rep#readme"
+}
